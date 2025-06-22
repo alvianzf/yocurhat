@@ -1,4 +1,3 @@
-import React from 'react';
 import { BookOpen, Heart, Lightbulb, Calendar, Brain, User } from 'lucide-react';
 
 const Content = () => {

@@ -1,4 +1,3 @@
-import React from 'react';
 import { Heart, MessageCircle, Clock, Star } from 'lucide-react';
 
 const Team = () => {

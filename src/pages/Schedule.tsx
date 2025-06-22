@@ -1,5 +1,4 @@
-import React from 'react';
-import { Clock, Calendar, User, MessageCircle } from 'lucide-react';
+import { Clock, Calendar, MessageCircle } from 'lucide-react';
 
 const Schedule = () => {
   const listeners = [

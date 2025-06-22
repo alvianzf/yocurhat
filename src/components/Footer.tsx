@@ -1,4 +1,3 @@
-import React from 'react';
 import { Heart, Mail, Instagram, Twitter, MessageCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
