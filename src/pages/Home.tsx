@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import { MessageCircle, Heart, Shield, Users } from 'lucide-react';
 
 const Home = () => {
+
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
